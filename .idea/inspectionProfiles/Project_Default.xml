@@ -1,0 +1,84 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myCustomPropertiesEnabled" value="true" />
+      <option name="myIgnoreVendorSpecificProperties" value="false" />
+      <option name="myCustomPropertiesList">
+        <value>
+          <list size="6">
+            <item index="0" class="java.lang.String" itemvalue="a100" />
+            <item index="1" class="java.lang.String" itemvalue="a200" />
+            <item index="2" class="java.lang.String" itemvalue="a400" />
+            <item index="3" class="java.lang.String" itemvalue="a700" />
+            <item index="4" class="java.lang.String" itemvalue="contrast" />
+            <item index="5" class="java.lang.String" itemvalue="trasform" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="19">
+            <item index="0" class="java.lang.String" itemvalue="ltcontenttextsubtitle" />
+            <item index="1" class="java.lang.String" itemvalue="matsteplabel" />
+            <item index="2" class="java.lang.String" itemvalue="appearance" />
+            <item index="3" class="java.lang.String" itemvalue="color" />
+            <item index="4" class="java.lang.String" itemvalue="svgicon" />
+            <item index="5" class="java.lang.String" itemvalue="cdkdroplistorientation" />
+            <item index="6" class="java.lang.String" itemvalue="autosize.style.marginbottom" />
+            <item index="7" class="java.lang.String" itemvalue="mat-icon-button" />
+            <item index="8" class="java.lang.String" itemvalue="fadeinup" />
+            <item index="9" class="java.lang.String" itemvalue="mat-button" />
+            <item index="10" class="java.lang.String" itemvalue="mat-raised-button" />
+            <item index="11" class="java.lang.String" itemvalue="tuitextfield" />
+            <item index="12" class="java.lang.String" itemvalue="shape" />
+            <item index="13" class="java.lang.String" itemvalue="size" />
+            <item index="14" class="java.lang.String" itemvalue="tuislot" />
+            <item index="15" class="java.lang.String" itemvalue="tuiappbarback" />
+            <item index="16" class="java.lang.String" itemvalue="icon" />
+            <item index="17" class="java.lang.String" itemvalue="tuibutton" />
+            <item index="18" class="java.lang.String" itemvalue="tuitable" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="13">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="tui-select" />
+            <item index="7" class="java.lang.String" itemvalue="custom-list" />
+            <item index="8" class="java.lang.String" itemvalue="tui-input" />
+            <item index="9" class="java.lang.String" itemvalue="tui-app-bar" />
+            <item index="10" class="java.lang.String" itemvalue="tui-pie-chart" />
+            <item index="11" class="java.lang.String" itemvalue="tui-money" />
+            <item index="12" class="java.lang.String" itemvalue="tui-chip" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="JSHint" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="aiohttp_socks" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="Stylelint" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="TsLint" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
